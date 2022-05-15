@@ -1,5 +1,5 @@
 # heart-failure-prediction
-Final Project
+
 
 This repository contains four files in support the final project:
 
@@ -18,6 +18,6 @@ Note: Please update working dir at rows 40-152-218
 
 mimic3-EDA.pbix --> MS Power BI EDA Report file
 
-Thank you!
-
 **********************************************************************************************************
+
+Thank you!
