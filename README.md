@@ -3,6 +3,7 @@ Final Project
 
 This repository contains four files in support the final project:
 
+**********************************************************************************************************
 Machine Learning Models to Predict in-Hospital Mortality of Heart Failure Patients in Intensive Care Units
 **********************************************************************************************************
 
@@ -18,3 +19,5 @@ Note: Please update working dir at rows 40-152-218
 mimic3-EDA.pbix --> MS Power BI EDA Report file
 
 Thank you!
+
+**********************************************************************************************************
