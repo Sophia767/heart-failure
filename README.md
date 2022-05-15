@@ -3,7 +3,6 @@
 
 This repository contains four files in support the final project:
 
-**********************************************************************************************************
 Machine Learning Models to Predict in-Hospital Mortality of Heart Failure Patients in Intensive Care Units
 **********************************************************************************************************
 
